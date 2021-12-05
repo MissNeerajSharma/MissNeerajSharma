@@ -14,11 +14,8 @@ What do I do for Fun?</h3>
 2️⃣Reading Research Articles. 📑<br>
 3️⃣Deep Learning Practice. 📈<br>
 4️⃣Travel and Exploring. 🗺️
-
-  <h3>
-
-   
-⚡ GitHub Stats
+<h5>
+ ⚡ GitHub Stats
 - 📫 How to reach me ...
   Buddy Ping me on  : 🔗 neerajkhn86@gmail.com<br>
   Linkedin          : 🔗 https://www.linkedin.com/in/ms-neeraj-sharma-b44383219<br>
