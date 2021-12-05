@@ -21,9 +21,9 @@ What do I do for Fun?</h3>
 ⚡ GitHub Stats
 - 📫 How to reach me ...
   Buddy Ping me on  : 🔗 neerajkhn86@gmail.com<br>
-  Linkedin          : 🔗 https://www.linkedin.com/in/ms-neeraj-sharma-b44383219
-  Tableau VBiz link : 🔗 https://public.tableau.com/app/profile/neeraj4401
-<H1>
+  Linkedin          : 🔗 https://www.linkedin.com/in/ms-neeraj-sharma-b44383219<br>
+  Tableau VBiz link : 🔗 https://public.tableau.com/app/profile/neeraj4401<br>
+<H3>
 Dream's Don't Work...Unless you work upon them.<br>
 So..<br>Work Hard<br>
  
