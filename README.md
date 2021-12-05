@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MissNeerajSharma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science Project.
+- 💞️ I’m looking to collaborate on same
 - 📫 How to reach me ...neerajkhn86@gmail.com
 
 <!---
