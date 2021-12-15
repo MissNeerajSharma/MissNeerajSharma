@@ -1,4 +1,6 @@
 <h1> Hi there 👋 I am Neeraj Sharma!</h1>
+
+![alt text](https://github.com/MissNeerajSharma/MissNeerajSharma/blob/main/1.gif)
 <h3>About Me</h3>
 I am working as Data Scientist(R&D Department) for Startup Company. 🖥️
 <br>
