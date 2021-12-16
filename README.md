@@ -1,6 +1,6 @@
 <h1> Hi there 👋 I am Neeraj Sharma!</h1>
 
-![alt text](https://github.com/MissNeerajSharma/MissNeerajSharma/blob/main/1.gif)
+![alt text](https://github.com/MissNeerajSharma/MissNeerajSharma/blob/main/1.gif)<br>
 “To understand and analyze the data you have to think like a statistician, and to make decisions based on the patterns in the dataset you have to think like an analyst and to make data products you have to think like a programmer. This is what Data Science is."
 
 <h3>About Me</h3>
